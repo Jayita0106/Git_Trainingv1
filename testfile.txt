@@ -1,1 +1,3 @@
 another test file to check whether sync is done between local and remote repo
+
+This is the commit from local machine
